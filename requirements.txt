@@ -9,3 +9,4 @@ requests==2.18.1
 urllib3==1.21.1
 virtualenv==15.1.0
 whitenoise==3.3.0
+django-widget-tweaks==1.4.1
