@@ -7,9 +7,9 @@ iSnippets-Code-Saver: a Django CRUD application that allows you to create, view,
 ## Technologies Used
 
 * Django
-* HTML
-* CSS
-* JavaScript
+* SQLite 
+* Bootstrap
+* Heroku
 
 
 ## Heroku Link
